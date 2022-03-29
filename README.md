@@ -64,7 +64,7 @@ This was such a fun project that I wish I had more time to learn to implement mo
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/3826382948ed402793a05e39c0302a14)
 
 
 ## License
