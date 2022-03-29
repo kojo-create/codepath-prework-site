@@ -43,16 +43,22 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+W3schools:generic javascript,html,css syntax
+Stackoverflow
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+
+
+Creating this submission, I encountered quite a few basic problems, for instance, understanding exactly what the project was about or what I was being asked to do. I read and reread the question prompt about five times before understanding what exactly to do. After that first hurdle, following the instructions on the website was a breeze until the end when I had to create for loops for the logic on which the game was to be played. It took me a while to understand what exactly I needed to do to make it work and also because I just started programming in java and have little to no experience in javascript it was a little bit hard, I had to write down on paper in english exactly what I wanted the game to do and transform it into code using for loops and also looking at the answers on the website to help with the syntax. Overall, the hardest challenge was changing the number of times a player could play the game without having to restart after every failed attempt and also generating new patterns. Prior to this assignment, all my game building project experience had been in python and on text based games so it took me a while to make it work. I had to research a little bit on w3schools and read a couple of posts on stackover flow on generating new patterns every time the user played the game and also increasing the number of times the user could play. It was a very fun challenging project that I enjoyed doing and I look forward to doing more projects in Javascript.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+I took a web designing course last semester in my school so I had a little experience in building interactive websites with css and html, however, the use of javascript in this project really made this experience very different from everything I have already done. It has made me realize how little I know about web designing and  for the first time, I see how powerful Javascript can be and it makes me wonder about the possibilities and potential of javascript as a programming language and the problems it can be used to solve. This project has made me think about questions like: Can javascript be used to automate the web and make it more accessible to everyone?  And how can we implement both front-end programming and back-end programming in java?
+
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+This was such a fun project that I wish I had more time to learn to implement more cool features. For instance, I would have added more different sounds to the game, I named my project texas chainsaw sound and memory game and I would have loved to add a feature where a user could play the sound of a chainsaw using the buttons. I would have also loved to add an option of a user inputting their favorite song in the game and be able to play the song in the game using the buttons redesigned in the form of piano keys but multicolored. I would also like to include a visible time counting feature where the user can see how many more times he or she can play the game.
 
 
 
