@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="https://glitch.com/favicon.ico" />
+
+    <title>Hello world!</title>
+
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css" />
+
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>
+  <body>
+    <!-- this is the start of content -->
+    <h1>
+      Texas Chainsaw Sound and Memory game!
+    </h1>
+    <p>
+      Hello there! This is my own sound and memory game, hope you enjoy it. Any feedback is appreciated.
+      
+    </p>
+    <div>
+      <button onclick="startGame()" id="startBtn">Start</button>
+      <button onclick="stopGame()" class="hidden" id="stopBtn">Stop</button>
+    </div>
+    <div id="gameButtonArea">
+      <button onmousedown="startTone(1)" onclick="guess(1)" onmouseup="stopTone()" id="button1"></button>
+      <button onmousedown="startTone(2)" onclick="guess(2)" onmouseup="stopTone()" id="button2"></button>
+      <button onmousedown="startTone(3)" onclick="guess(3)" onmouseup="stopTone()" id="button3"></button>
+      <button onmousedown="startTone(4)" onclick="guess(4)" onmouseup="stopTone()" id="button4"></button>
+    </div>
+  </body>
+</html>
